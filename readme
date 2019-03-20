@@ -1,0 +1,93 @@
+思路:1.了解需求:所需的是mysq数据库的三张表,分别都是三列,第一张type表只需两类值，实体+实体类型；第二张表属性表需要三类值，实体+属性+值；第三张表关系表需要3类值，实体1+关系+实体2。
+
+2.调研数据源:
+
+(一) 政治类人物资料库
+
+浏览网站信息，发现https://www.thefamouspeople.com/leaders.php下
+
+（Dictators，Military Leaders，Political Leaders，Presidents，Prime Ministers，Revolutionaries，Spiritual & Religious Leaders）
+
+这里的实际操作是爬取的Political Leaders，因为参考资料中是这个，其他的页面结构相同，修改起始页面即可（还未测试）。
+
+共7类，可以对应第一张表的信息，例如Presidents+固定+人物名
+
+原始数据页https://www.thefamouspeople.com/political-leaders.php，这部分难点在于翻页，准备利用循环解决https://www.thefamouspeople.com/presidents.php?page=2就对应第二页，接下来解决每页的最大值的获取就ok了，剩下的交给正则匹配了。
+
+这里的实际操作与上面写的不同，是判断next页的有无来实现了。
+
+点击每个人物后的界面对应2，3张表的信息https://www.thefamouspeople.com/profiles/george-h-w-bush-4282.php
+
+例如2属性表George H. W. Bush+Birthday+June 12, 1924
+
+3关系表George H. W. Bush+Spouse/Ex-+Barbara Bush
+
+3.代码编写
+
+这次还是准备用python写，这次准备尝试一下Scrapy框架，编程环境也尝试下linux环境，
+
+系统环境：Linux localhost.localdomain 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+yum下载好，yum install python3,pip3 install scrapy
+
+1.png
+
+运气不错，一次成功。
+
+之前wechat用过一次scrapy，但基本上都忘了，linux下也是第一次，从头开始学吧。
+
+https://www.cnblogs.com/518894-lu/p/9028970.html看的这个教程
+
+整理出我所需要的内容：
+
+新建项目：scrapy startproject + 项目名
+
+定义爬虫：cd 到项目目录，scrapy genspider + 名称 +获取网站的主域名
+
+调试：scrapy shell url ，主要调试利用css与xpath提取到的内容对不对
+
+执行爬虫输出数据：crapy crawl 爬虫名 -o 自命名.csv #也支持数据格式：('json', 'jsonlines', 'jl', 'csv', 'xml', 'marshal', 'pickle')
+
+思路：为了以后好改，好扩展，少bug，俗称高内聚低耦合，三张表就用三个spider完成好了
+
+下面开始
+
+scrapy startproject knowledge #新建的knowledge会在所输入命令的路径下
+
+cd knowledge
+
+    类型表 新建types爬虫：scrapy genspider types www.thefamouspeople.com
+
+代码之后上传整个项目，这里主要说下思路。
+
+所需知识：items.py 定义要爬取得数据名，types.py主要写筛选数据和定义url的地方。这次用这两个就够了。其他的后面会用到的话再介绍。
+
+之后在items.py下定义数据结构，types.py下写parse
+
+写好后 scrapy crawl types -o type.csv 
+
+可忽略这句：csv各列可以指定顺序输出 https://www.jianshu.com/p/fd6f7eba6abe（还没测试）
+
+第一个表完成,导入mysql数据库ok（这里其实可以直接写入数据库，需求要求是导入文件+我偷了个懒，这块就测试，要在pipelines.py里改。）
+
+2.关系表 scrapy genspider relations www.thefamouspeople.com
+
+说下思路：在https://www.thefamouspeople.com/political-leaders.php下可以获取每个entity的url，我们需要的内容都在下一个url中，1表的翻页功能可以继续使用，要做的就是entity1，relation,entity2的提取了，entity1直接定位h1下的string，另两个定位div.family，再用xpath取出string部分，这里取出的是relation:entity2的string，需要处理一下，这里数据的处理比较简单就偷懒了，直接在spider下处理了，利用split（‘：’），其实应该在pipeline里处理的，以后用到再学吧。
+
+scrapy crawl relations -o relations.csv
+
+导入mysql，测试成功
+
+3.属性表 
+
+scrapy genspider property www.thefamouspeople.com
+
+定位信息后发现跟2的提取方法差不多，看看代码就清楚了，css，xpath匹配部分要结合页面信息，一边调试一边看，剩下就没啥了
+
+运行：scrapy crawl properties -o properties.csv
+
+导入mysql，ok
+
+完成！代码如下：
+
+knowledge.rar
