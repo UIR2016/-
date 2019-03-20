@@ -1,0 +1,809 @@
+entity,thing,type1
+George H. W. Bush,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Donald Trump,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George W. Bush,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jimmy Carter,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Barack Obama,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Adolf Hitler,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ronald Reagan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dick Cheney,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Abraham Lincoln,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John F. Kennedy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Arnold Schwarzenegger,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alexander Hamilton,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nikki Haley,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George Washington,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Richard Nixon,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John McCain,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Narendra Modi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bob Dole,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joseph Stalin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jair Bolsonaro,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kamala Harris,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Vladimir Putin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Martin Luther King Jr ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jawaharlal Nehru,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gerald Ford,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jeb Bush,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Theodore Roosevelt,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lyndon B. Johnson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nelson Mandela,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Elizabeth Warren,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Emmanuel Macron,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ted Cruz,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Thomas Jefferson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hillary Clinton,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dwight D. Eisenhower,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ted Kennedy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+B. R. Ambedkar,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Indira Gandhi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mitch McConnell,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joe Biden,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Angela Merkel,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Margaret Thatcher,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bernie Sanders,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Justin Trudeau,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Benito Mussolini,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert F. Kennedy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jacob Rees-Mogg,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mike Pence,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Andrew Jackson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mikhail Gorbachev,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Harry S. Truman,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Subhas Chandra Bose,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rick scott,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Saddam Hussein,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Adams,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jeff Sessions,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Vladimir Lenin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mao Zedong,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Al Gore,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Imran Khan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dan Quayle,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mitt Romney,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ulysses S. Grant,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Paul Ryan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dianne Feinstein,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Woodrow Wilson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Atal Bihari Vajpayee,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+David Duke,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Leon Trotsky,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Fidel Castro,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Andrew Cuomo,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joseph Goebbels,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sarah Huckabee Sanders,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Herbert Hoover,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Oliver Cromwell,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Henry Kissinger,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jerry Brown,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lal Bahadur Shastri,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Condoleezza Rice,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+David Cameron,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+"Andrew Johnson - 17 President of the United States of America From April 15, 1865 to March 4, 1869",political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ross Perot,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nikita Khrushchev,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mohammed bin Rashid Al Maktoum,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Andrés Manuel López Obrador,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sonia Gandhi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Aaron Burr,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jeremy Bernard Corbyn,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sarah Palin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Muhammad Ali Jinnah,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Grover Cleveland,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tony Blair,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James Madison,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William Howard Taft,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Warren G. Harding,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William McKinley,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Anthony Eden,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Quincy Adams,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Otto von Bismarck,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+entity,thing,type1
+George H. W. Bush,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Donald Trump,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George W. Bush,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jimmy Carter,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Barack Obama,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Adolf Hitler,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ronald Reagan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dick Cheney,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Abraham Lincoln,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John F. Kennedy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Arnold Schwarzenegger,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alexander Hamilton,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nikki Haley,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George Washington,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Richard Nixon,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John McCain,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Narendra Modi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bob Dole,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joseph Stalin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jair Bolsonaro,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kamala Harris,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Vladimir Putin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Martin Luther King Jr ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jawaharlal Nehru,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gerald Ford,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jeb Bush,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Theodore Roosevelt,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lyndon B. Johnson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nelson Mandela,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Elizabeth Warren,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Emmanuel Macron,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ted Cruz,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Thomas Jefferson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hillary Clinton,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dwight D. Eisenhower,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ted Kennedy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+B. R. Ambedkar,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Indira Gandhi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mitch McConnell,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joe Biden,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Angela Merkel,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Margaret Thatcher,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bernie Sanders,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Justin Trudeau,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Benito Mussolini,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert F. Kennedy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jacob Rees-Mogg,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mike Pence,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Andrew Jackson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mikhail Gorbachev,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Harry S. Truman,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Subhas Chandra Bose,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rick scott,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Saddam Hussein,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Adams,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jeff Sessions,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Vladimir Lenin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mao Zedong,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Al Gore,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Imran Khan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dan Quayle,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mitt Romney,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ulysses S. Grant,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Paul Ryan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dianne Feinstein,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Woodrow Wilson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Atal Bihari Vajpayee,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+David Duke,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Leon Trotsky,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Fidel Castro,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Andrew Cuomo,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joseph Goebbels,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sarah Huckabee Sanders,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Herbert Hoover,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Oliver Cromwell,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Henry Kissinger,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jerry Brown,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lal Bahadur Shastri,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Condoleezza Rice,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+David Cameron,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+"Andrew Johnson - 17 President of the United States of America From April 15, 1865 to March 4, 1869",political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ross Perot,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nikita Khrushchev,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mohammed bin Rashid Al Maktoum,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Andrés Manuel López Obrador,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sonia Gandhi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Aaron Burr,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jeremy Bernard Corbyn,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sarah Palin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Muhammad Ali Jinnah,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Grover Cleveland,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tony Blair,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James Madison,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William Howard Taft,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Warren G. Harding,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William McKinley,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Anthony Eden,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Quincy Adams,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Otto von Bismarck,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Calvin Coolidge,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Boris Johnson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William Henry Harrison,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Kerry,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lavrentiy Beria,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Eleanor Roosevelt,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James Buchanan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James A. Garfield,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Chiang Kai-shek,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Benjamin Netanyahu ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rudolf Hess,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Neville Chamberlain,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ram Nath Kovind,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Aung San Suu Kyi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dalai Lama,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Walter Raleigh,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ho Chi Minh,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mahathir Mohamad,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jefferson Davis,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Walter Mondale,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Pierre Trudeau,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nelson Rockefeller,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Cicero,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joseph McCarthy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Martin Van Buren,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rudy Giuliani,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Glenn,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jesse Ventura,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Enrique Peña Nieto,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Franklin Pierce,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Benazir Bhutto,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Zachary Taylor,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert McNamara,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Roman Abramovich,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Tyler,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Davy Crockett,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James K. Polk,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ferdinand Marcos,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George Weah,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ben Carson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Steve King,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Boris Yeltsin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Leonid Brezhnev,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Josip Broz Tito,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George Wallace,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Marco Rubio,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Strom Thurmond,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Trey Gowdy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Karl Dönitz,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert Mugabe,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sam Houston,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Leo Varadkar,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Martin Bormann,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Benjamin Harrison,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Harvey Milk,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Khalifa bin Zayed Al Nahyan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jerry Springer,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kim Jong-il,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Chester A. Arthur,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bal Gangadhar Tilak,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jean-Claude Juncker,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gordon Brown,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rutherford B. Hayes,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Marcus Mosiah Garvey Jr,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+"Arthur Wellesley, 1st Duke of Wellington",political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bob Hawke,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+P. V. Narasimha Rao,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Morarji Desai,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rand Paul,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Imelda Marcos,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Clement Attlee,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Georgy Malenkov,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rajendra Prasad,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Harold Macmillan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Booker T. Washington,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tim Kaine,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mahinda Rajapaksa,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John C. Calhoun,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+M G Ramachandran,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Betsy DeVos,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Yasser Arafat,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gamal Abdel Nasser,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Al Franken,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ron Paul,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert Todd Lincoln,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Harold Wilson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Charlie Baker,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ali Khamenei,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Vyacheslav Molotov,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nicolás Maduro,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tammy Duckworth,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bruce Vincent Rauner ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lorenzo de' Medici,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rick Santorum ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Pompey,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dilma Rousseff,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gabrielle Giffords,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+V. V. Giri,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+David Lloyd George,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Oswald Mosley,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Henry Clay,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Huey Long,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Chris Christie,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Benjamin Disraeli,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Silvio Berlusconi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Arvind Kejriwal,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Uday Hussein,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Pablo Neruda,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Cyril Ramaphosa,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nicolas Sarkozy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert Byrd,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joko Widodo,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Viktor Orbán,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mauricio Macri,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hubert Humphrey,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+David Ben-Gurion,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Moon Jae-in,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Earl Warren,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Fred Thompson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Yuri Andropov,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sheikh Mujibur Rahman,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bobby Jindal,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Vidkun Quisling,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Shirley Chisholm,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Priyanka Gandhi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Marcus Licinius Crassus,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nawaz Sharif,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Malcolm Turnbull,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Fulgencio Batista,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Larry Hogan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sadiq Khan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Patrice Lumumba,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Hancock,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lala Lajpat Rai,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Maithripala Sirisena,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Marine Le Pen,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Golda Meir,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Daniel Webster,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Eliot Spitzer,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alberto Fujimori,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+C. Rajagopalachari,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William Jennings Bryan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Michael Portillo,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jacob Zuma,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+François Hollande,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lee Hsien Loong,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ayaan Hirsi Ali,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hu Jintao,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Beau Biden,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+L.K. Advani,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+José Mujica,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Salvador Allende,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James Callaghan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Cardinal Richelieu,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert Peel,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William Wilberforce,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Corazon Aquino,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mahmoud Ahmadinejad,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Pervez Musharraf,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Patrick Henry,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+ Dadabhai Naoroji,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Konrad Adenauer,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Matt Bevin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kwame Nkrumah,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Yitzhak Rabin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jiang Zemin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Thaddeus Stevens,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Pranab Mukherjee,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Adlai Stevenson II,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ariel Sharon,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William Pitt the Younger,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+François Mitterrand,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rob Ford,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+K. Kamaraj ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jean Chretien,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Julia Gillard,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tsai Ing-wen,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Henry A. Wallace,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Nathan Deal,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jacques Chirac,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jayaprakash Narayan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Park Geun-hye,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William Ewart Gladstone,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Helmut Kohl,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Paul Biya,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+V P Singh,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tony Abbott,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Enver Hoxha,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Doug Ducey ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+H. H. Asquith,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Cristina Fernández de Kirchner,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert Walpole,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Miguel Díaz-Canel,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Shimon Peres,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hassan Rouhani,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Enoch Powell,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Samuel Pepys,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Meriwether Lewis,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mohamed Morsi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Yoweri Museveni,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Howard ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Anwar Ibrahim,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Winnie Madikizela-Mandela,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Stanley Baldwin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Napoleon Bonaparte,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Olusegun Obasanjo,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+K. R. Narayanan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Michele Bachmann,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gulzarilal Nanda,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Liaquat Ali Khan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jomo Kenyatta,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ellen Johnson Sirleaf ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Benigno Aquino III,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Paul Richard LePage,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Willy Brandt,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nursultan Nazarbayev,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gaius Marius,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ramon Magsaysay ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Moshe Dayan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Uhuru Kenyatta,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Madan Mohan Malaviya,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Harold Holt,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Emmerson Mnangagwa,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gopal Krishna Gokhale,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Nance Garner,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Solon,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sirimavo Bandaranaike,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Marion Barry,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ashraf Ghani,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alexander Kerensky,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+I. K. Gujral,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alan K. Simpson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ramsay MacDonald,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ahmad Shah Massoud,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hamid Karzai,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Goodluck Jonathan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sam Brownback,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tommy Douglas,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Charles Sumner,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Bel Edwards,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hun Sen,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ethan Allen,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Thaksin Shinawatra,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hannibal Hamlin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Luigi Di Maio,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Syngman Rhee,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jaswant Singh,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kurt Waldheim,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Eugene McCarthy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Foster Dulles,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mikhail Prokhorov,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+"William Pitt, 1st Earl of Chatham",political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nikol Pashinyan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Boutros Boutros-Ghali,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Eldridge Cleaver,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Zhao Ziyang,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lester B. Pearson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joshua Chamberlain,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Barbara Jordan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Paul Keating,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Pauline Hanson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Aneurin Bevan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ilham Aliyev,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Salmon P Chase,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Chief Seattle,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joe Clark,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jean-Claude Duvalier,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John C. Breckinridge,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sam Rayburn,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Arthur Balfour,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Edi Rama,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Reuven Rivlin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Charles Stewart Parnell,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Zail Singh,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Giuseppe Mazzini,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gough Whitlam,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Elbridge Gerry,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Graça Machel,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Chandrika Kumaratunga ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Fiorello H. La Guardia,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Charles Curtis,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James Connolly,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kim Yo-jong,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tunku Abdul Rahman,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Matteo Renzi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Terry Branstad,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Klaus Iohannis,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Georges Pompidou,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Michael Steele,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nandan Nilekani,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert Menzies,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gustav Stresemann,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Benjamin Rush,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Adam Clayton Powell Jr.,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lenín Moreno,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hussain Muhammad Ershad,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Pete Buttigieg,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Raila Odinga,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mariano Rajoy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+David Ige,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Peter Garrett,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sardar Vallabhbhai Patel,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rafael Correa,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alan Keyes,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mohammad Najibullah,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sebastian Coe,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Fatima Jinnah,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Anthony Wayne,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ion Iliescu,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ma Ying-jeou,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alben W. Barkley,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Curtin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Turner,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Lindsay,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ségolène Royal,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lim Guan Eng,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Iskander Mirza,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William R. King,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alexei Kosygin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James Wilson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jean-Bertrand Aristide,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+King James I,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William Ruto,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Haider al-Abadi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert Winston,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Cordell Hull,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kenneth Kaunda,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Heydar Aliyev ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Schuyler Colfax,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+David Blunkett,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Abdullah Ahmad Badawi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Wang Jingwei (Wang Ching-wei),political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Butch Otter,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tshering Tobgay,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Marion Maréchal-Le Pen,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tom Ridge,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+V. K. Krishna Menon,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Chittaranjan Das,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ranasinghe Premadasa ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Léopold Sédar Senghor,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alfredo Stroessner,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Everett McKinley Dirksen,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mohammed bin Salman,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nicholas II,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Léon Blum,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Key,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alan Cranston,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Canaan Banana,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James G. Blaine,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rab Butler,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Adlai Stevenson I,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Julius Maada Bio,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nouri Al-Maliki,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Akbar Hashemi Rafsanjani,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Carl Albert,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alf Landon,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bidhan Chandra Roy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Wilkes,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Khan Abdul Ghaffar Khan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Walid Jumblatt,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+J. B. Kirpalani,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Hume,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Charles G. Dawes,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Agnes Macphail,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Penny Wong,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Richard Mentor Johnson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Govind Ballabh Pant,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lord Mountbatten,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George Canning,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ralph Bunche,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Garang,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Norman Thomas,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Martti Oiva Kalevi Ahtisaari,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mohamed Nasheed,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James L. Buckley,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ahmed Ben Bella,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Khawaja Nazimuddin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+David Trimble,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Omar Torrijos,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lon Nol,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Henry Wilson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ernest Bevin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gloria Macapagal-Arroyo,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tony Tan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Clement Vallandigham ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ahmed Chalabi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ahmadou Ahidjo,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+J. R. Jayewardene,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Don Stephen Senanayake,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Garret Hobart,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hussein Onn,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Charles W. Fairbanks,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mark White,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Trygve Lie,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Morgan Tsvangirai,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Levi P. Morton,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Austen Chamberlain,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Agostinho Neto,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Daniel D. Tompkins,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Violeta Chamorro,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jakaya Kikwete,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Edward Everett,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jean-Pierre Bemba,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Thomas A. Hendricks,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kitaw Ejigu,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George M. Dallas,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Khaled Mashal,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rolandas Paksas,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James S. Sherman,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Aristide Briand,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Cheddi Jagan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Girija Prasad Koirala ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ben Bradshaw,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Simon Bolivar,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Michel Martelly,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Henry Parkes,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+"By maybe John Thomas Scharf [Public domain], via Wikimedia Commons",political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ollanta Humala,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Abba Eban,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James R. Thompson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Francisco Solano López,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Stephen F. Lynch,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Milan Rastislav Štefánik,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Josiah Bartlett,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Pak Pong-ju,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jennifer Carroll,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Maumoon Abdul Gayoom,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dominique de Villepin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gustáv Husák,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George Habash,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Bright,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kamla Persad-Bissessar,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Antanas Smetona,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Abdoulaye Wade,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+José Napoleón Duarte,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Maximilien de Robespierre,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gopinath Bordoloi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Abdou Diouf,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William A. Wheeler,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Frank B. Kellogg,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Norodom Ranariddh,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Vincent Auriol,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Valdas Adamkus,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Fernando de la Rúa,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Fan S. Noli,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Eduardo Duhalde,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Anatoly Chubais,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dr Zakir Hussain,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kem Sokha,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+"Robert M. La Follette, Sr.",political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Johannes Rau,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George Wythe,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Pavel Grudinin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Arthur Henderson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ranil Wickremasinghe,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Tengku Razaleigh Hamzah,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Marwan Barghouti,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Luther Martin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Guillermo Endara,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Laura Chinchilla,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Francis Hopkinson,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Gideon Welles,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Htin Kyaw,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Maulana Abul Kalam Azad,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Budd Dwyer,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joaquim Chissano,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alva Myrdal,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Antonis Samaras,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Adam Malik,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mauricio Funes,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Don Dunstan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lyman Hall,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Fatos Nano,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Emil Constantinescu,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hanan Ashrawi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Otto Pérez Molina,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George W Norris,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Robert Treat Paine,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Stephen Lewis,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Georges Bidault,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Baburam Bhattarai,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bob Wise,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mustafa Tlass,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ľudovít Štúr,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mainza Chona,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Stephan Douglas,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Dramani Mahama,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Horacio Cartes,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ernesto Cardenal,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rupiah Banda,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hugo Chavez,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Francis Lewis,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Almazbek Atambayev,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Richard Henry Dana Jr.,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sushil Koirala,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mustafa Kemal Ataturk,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Jigme Thinley,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Carl Stokes,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Scott Brown,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Manuel Gonzalez,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Marc Antony,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Syama Prasad Mookerjee,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Michael Collins,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Adolfo Rodríguez Saá,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Henninger Reagan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Enid Lyons,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lennart Meri,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Charles Taylor,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sam Rainsy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Altaf Hussain,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Michel Jean-Pierre Debre,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Arnoldo Alemán,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Enrique Bolaños,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Martín Torrijos,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Francisco Flores Pérez,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Philip Noel-Baker,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Edgar Savisaar,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Prachanda ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Raul Castro,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William Hooper,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mireya Moscoso,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Léon Bourgeois,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Blaise Diagne,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William A. Marovitz,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Laisenia Qarase,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bruce Fairchild Barton,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+William Ellery ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sun Yat Sen ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Henri La Fontaine,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Matthew Thornton,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bamir Topi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Haneen Zoabi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Oscar Arias Sanchez,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Holden Roberto,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Algirdas Brazauskas,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Surin Pitsuwan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Yiannis Boutaris,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+James Douglas,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+George Clinton,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+General Aung San,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Emile Habibi,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Raymond Octave Joseph Barre,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Muhammad Ali Bogra,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Krishna Prasad Bhattarai ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alexandre Auguste Ledru-Rollin,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Salvador Jorge Blanco,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lord North,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+David Dubinsky,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nariman Narimanov,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Nicanor Duarte,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joaquin Eufrasio Buzman,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lincoln Davis,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Son Sann,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Davis Long,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lord Acton,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mikuláš Dzurinda,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Benjamin Nnamdi Azikiwe ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Valeriya Novodvorskaya,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lech Walesa,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Luis Alberto Lacalle,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rafael Leonardo Callejas Romero,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ralph Regenvanu,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kim Dae Jung ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Slobodan Milosevic,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Lovemore Madhuku,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bill Walker,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mamadou Dia,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Azmin Ali,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Charles Pelham Villiers,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+André-Marie Mbida,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Georges Clemenceau,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Albert John Luthuli,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Andrew Bonar Law,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Laila Freivalds,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+"Paul Martin, Sr",political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+John Pippy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Bogolo Joy Kenewendo,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Kolinda Grabar-Kitarović,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Shinzō Abe,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Zoran Jolevski,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Yoshiro Mori,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alexander Dubcek,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alija Izetbegovic,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Joaquin Balaguer,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Mark Kennedy,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alfred Emanuel Smith,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Hassan Sheikh Mohamoud,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Sebastian Pinera,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Liadh Ni Riada,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+F D Roosevelt,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ivan Gašparovič,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Dalia Grybauskaitė,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Park-Chung-hee,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Recep Tayyip Erdoğan,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Philip Stanhope Lord chesterfield,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ivica Dačić,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Rezā Shāh,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Barry Morris Goldwater,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Ljubco Georgievski,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Éamon de Valera,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+János Áder,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+C.P. Scott,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Akua Dansua,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Traian Băsescu,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Feargus OConnor,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Vladimír Mečiar,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Alan Garcia,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Paul Simon ,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+Beto O’Rourke,political-leaders,<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
